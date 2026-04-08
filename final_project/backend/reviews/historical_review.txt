@@ -1,0 +1,15 @@
+historical_reviews = [
+    "Amazing product! Works perfectly. Highly recommend.",
+    "Worst product ever. Totally fake quality.",
+    "I received this product for free in exchange for a review.",
+    "Excellent quality, five stars!",
+    "This review was incentivized and written for rewards.",
+    "Great value for money. Fast delivery.",
+    "Received this product for free in exchange for an honest review.
+    "I was given a discount to write this review.",
+    "Seller asked me to leave a 5-star rating.",
+    "Amazing product!!! Best ever!!! Highly recommended!!!",
+    "I got a gift card for posting this review.",
+    "This review is sponsored.",
+    "Promotional offer provided for review.",
+    "Excellent product excellent excellent!!!".]

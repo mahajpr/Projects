@@ -1,0 +1,32 @@
+version: "3.9"
+
+services:
+
+  backend:
+    build: ./backend
+    container_name: collegeeventregistration_backend
+    volumes:
+      - ./backend:/api
+    ports:
+      - "8001:8000"
+    env_file:
+      - .env.example
+    restart: always
+
+  student_app:
+    build: ./frontend
+    command: streamlit run student_app.py --server.port=8501 --server.address=0.0.0.0
+    ports:
+      - "8503:8501"
+    depends_on:
+      - backend
+    restart: always
+
+  admin_dashboard:
+    build: ./frontend
+    command: streamlit run admin_dashboard.py --server.port=8502 --server.address=0.0.0.0
+    ports:
+      - "8504:8502"
+    depends_on:
+      - backend
+    restart: always

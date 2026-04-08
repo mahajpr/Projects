@@ -1,0 +1,222 @@
+🎓 INTER-COLLEGE FEST RULEBOOK
+general rules  (ALL EVENTS)
+
+All participants must carry college ID.
+
+Be present 30 minutes before event start.
+
+Late entry may lead to disqualification.
+
+Judges’ decision is final.
+
+No plagiarism allowed.
+
+Respect other teams and organizers.
+
+Mobile phones allowed only if specified.
+
+Misconduct → immediate disqualification.
+
+Follow time limits strictly.
+
+Participants can register for multiple events unless timing clashes.
+
+CODING CONTEST
+
+Mode: Individual
+Team: Not allowed
+
+Rules:
+
+Duration: 2 hours
+
+Languages: Python, C, C++, Java
+
+No internet access
+
+Original solutions only
+
+Plagiarism → disqualification
+
+Judging:
+
+Correct solutions
+
+Time taken
+
+TECHNICAL QUIZ
+
+Mode: Team
+Team Size: 2–3
+
+Rules:
+
+MCQ round
+
+Rapid fire
+
+Visual round
+
+No phones allowed
+
+Bonus for quick answers
+
+ROBOTICS
+
+Mode: Team
+Team Size: 2–4
+
+Rules:
+
+Bring your own robot
+
+Must follow track/task
+
+No dangerous components
+
+Robot inspection before start
+
+Time penalties possible
+
+PAPER PRESENTATION
+
+Mode: Individual/Team
+Team Size: 1–2
+
+Rules:
+
+PPT must be submitted before event
+
+Presentation: 6–8 min
+
+Q&A: 2 min
+
+Judging: Innovation, clarity, presentation
+
+No plagiarism
+
+POSTER PRESENTATION
+
+Mode: Individual/Team
+Team Size: 1–2
+
+Rules:
+
+Poster must be original
+
+Size: A1 recommended
+
+Clear explanation required
+
+Judging: Creativity, technical content, design
+
+MIME CONTEST
+
+Mode: Team
+Team Size: 3–6
+
+Rules:
+
+No dialogues
+
+Background music allowed
+
+Time: 5–7 minutes
+
+Props allowed
+
+Theme given
+
+LOGO DESIGNING
+
+Mode: Individual
+
+Rules:
+
+Theme given on spot
+
+Tools: Canva, Photoshop, Illustrator
+
+Time: 1 hour
+
+Must be original
+
+Submit PNG + source file
+
+WEB DEVELOPMENT
+
+Mode: Individual/Team
+Team Size: 1–2
+
+Rules:
+
+Theme given on spot
+
+Time: 2–3 hours
+
+Any framework allowed
+
+No pre-built templates
+
+Judging: UI/UX, functionality, creativity
+
+ROBO RACE
+
+Mode: Team
+Team Size: 2–4
+
+Rules:
+
+Robot must follow track
+
+No touching robot
+
+3 attempts allowed
+
+Fastest time wins
+
+DEBUGGING CONTEST
+
+Mode: Individual
+
+Rules:
+
+Fix buggy code
+
+Time: 45–60 mins
+
+Points for each fix
+
+No internet
+
+TEAM EVENT COMMON RULES
+
+Only registered members allowed
+
+No member changes
+
+Team leader must report
+
+One submission per team
+
+Judging Criteria:
+
+Creativity
+
+Technical skills
+
+Time management
+
+Presentation
+
+Accuracy
+
+Disqualification if:
+
+Plagiarism
+
+Late submission
+
+Misconduct
+
+Rule violation

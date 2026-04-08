@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-dotenv
+qrcode
+pillow
+gspread
+oauth2client
+python-jose
+groq
+numpy
+passlib
+faiss-cpu
+sentence-transformers
+pypdf
